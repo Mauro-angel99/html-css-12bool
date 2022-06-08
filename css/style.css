@@ -1,0 +1,25 @@
+.row>[class^='col'] {
+    background-color: #006CFA;
+    border: white 1px solid;
+    min-height: 50px;
+    color: white;
+    padding: 20px;
+}
+
+.row .row>[class^='col'] {
+    background-color: #00E165;
+
+}
+
+.margin-30 {
+    margin-bottom: 30px;
+}
+
+
+.heignt-100 {
+    height: 100px;
+}
+
+.heignt-50 {
+    height: 50px;
+}
